@@ -8,5 +8,8 @@
   "idf.toolsPathWin": "C:\\Users\\Lenovo\\.espressif",
   "idf.customExtraVars": {
     "IDF_TARGET": "esp32"
-  }
+  },
+  "idf.flashType": "UART",
+  "idf.portWin": "COM4",
+  "idf.monitorPort": "COM4"
 }
