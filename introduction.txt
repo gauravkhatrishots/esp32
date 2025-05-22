@@ -1,0 +1,15 @@
+bluetooth profiles
+a bluetooth device is composed of two component. 
+A. HOST
+B. CONTROLLER 
+
+THE HOST IS LIKE  A APPLICATION MODULE
+THE CONTROLLER IS MORE LIKE REPRESENATION OF MODEM OR RADIO PHYSICAL LAYER
+
+In the host there is profile i.e GAT Or Gatt that are used to  model the data . 
+and there is L2CAP Logical Link Controller and other compent 
+
+in initial impression is is evitable the main code of logic is driven around the Profile
+
+    1. GAT Generic Access Profile
+    2. GATT Generic Attribute Profile
