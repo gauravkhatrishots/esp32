@@ -1,0 +1,2 @@
+source C:/ESP/esp32/lcd/v2/i2c_oled/build/gdbinit/symbols
+source C:/ESP/esp32/lcd/v2/i2c_oled/build/gdbinit/connect

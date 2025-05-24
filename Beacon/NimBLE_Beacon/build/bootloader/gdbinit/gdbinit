@@ -1,0 +1,2 @@
+source C:/ESP/esp32/Beacon/NimBLE_Beacon/build/bootloader/gdbinit/symbols
+source C:/ESP/esp32/Beacon/NimBLE_Beacon/build/bootloader/gdbinit/connect
