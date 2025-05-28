@@ -1,0 +1,2 @@
+source C:/ESP/esp32/mbedtls_https/https_mbedtls/build/gdbinit/symbols
+source C:/ESP/esp32/mbedtls_https/https_mbedtls/build/gdbinit/connect

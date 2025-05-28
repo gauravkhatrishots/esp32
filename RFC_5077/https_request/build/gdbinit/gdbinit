@@ -1,0 +1,2 @@
+source C:/ESP/esp32/RFC_5077/https_request/build/gdbinit/symbols
+source C:/ESP/esp32/RFC_5077/https_request/build/gdbinit/connect

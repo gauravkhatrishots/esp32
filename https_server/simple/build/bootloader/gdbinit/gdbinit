@@ -1,0 +1,2 @@
+source C:/ESP/esp32/https_server/simple/build/bootloader/gdbinit/symbols
+source C:/ESP/esp32/https_server/simple/build/bootloader/gdbinit/connect
